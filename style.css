@@ -1,0 +1,36 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    line-height: 30px;
+}
+h2{
+    font-size: 30px;
+}
+h1 span{
+    color: #0BB8FC;
+}
+.flexibol-container{
+    display: flex;
+    margin-bottom: 75px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 75%;
+    padding-left: 10px;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#0BB9FC, #1d5d80);
+    padding: 15px 30px;
+    color: white;
+    font-weight: 700;
+    border-radius: 20px;
+}
+
+
